@@ -5,4 +5,4 @@
 
 This project was created using Microsoft Access. 
 
-Manage the invoicing process efficiently by tracking invoice statuses, payment due dates, and payment receipts. Easily monitor outstanding invoices and send reminders to clients for prompt payment.
+This database is a tool to manage the invoicing process efficiently by tracking invoice statuses, payment due dates, and payment receipts. It allows users to easily monitor outstanding invoices and send reminders to clients for prompt payment. Tracking invoices is an essential practice for procurement teams to ensure that they remain efficient and cost-effective. Using tools to manage  invoicing and track payments takes the hassle out of this important administrative task, and with an efficient invoice tracking system in place, users gain better visibility into the accounts receivable and cash flow.
